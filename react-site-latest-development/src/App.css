@@ -1,0 +1,36 @@
+.jumbotron{
+text-align: center;
+font-weight: bolder;
+
+}
+.hon{
+	padding: 18px;
+	shape-margin: 12px;
+}
+.para{
+	font-weight: bolder;
+	font-size: 14px;
+}
+.home{
+	font-weight: bolder;
+	font-size: 14px;
+	color: black;
+}
+.dev{
+	font-weight: bolder;
+	font-size: 17px;
+	color: black;
+}
+.word{
+	font-family: Brush Script MT;
+	/*Courier New;
+
+	*/
+}
+.wordtwo{
+	font-family: Courier New;
+	font-family:95px;
+}
+.codername{
+	font-family: Brush Script MT;
+}
