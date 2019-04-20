@@ -37,16 +37,7 @@ class Devsessionwriteup extends React.Component {
         
 <h1 className="devwrite"> Cryptograph and multiple concurrencies </h1>
 <article className="article">
-lorem ipsum conesectur jgjgjjggjj
-lorem ipsum conesectur jgjgjjggjj
-lorem ipsum conesectur jgjgjjggjj
-lorem ipsum conesectur jgjgjjggjj
-lorem ipsum conesectur jgjgjjggjj
-lorem ipsum conesectur jgjgjjggjj
-lorem ipsum conesectur jgjgjjggjj
-lorem ipsum conesectur jgjgjjggjj
-mgmh
-fgmggttntt
+When dealing with multiple concurrencies...
 </article>
 
 
